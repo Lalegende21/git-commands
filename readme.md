@@ -31,3 +31,8 @@ Permet de pousser les modifications sur le depot en ligne
 
 ## git pull
 - Permet de recuperer des modifications distantes
+
+## git rebase
+- Permet de recuperer les modifications deans la branche mere(main)
+- Les modifications de la branche mere sont placees en dessous des modifications de la branche courante
+- Les modifications de la branche courante sont placees au-dessus des modifications de la branche mere
