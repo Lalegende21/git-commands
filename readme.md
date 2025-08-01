@@ -1,1 +1,3 @@
-Commades git
+# Commades git
+
+Liste des commandes git
