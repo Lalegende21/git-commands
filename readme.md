@@ -16,8 +16,15 @@ Le message est important
 Permet de pousser les modifications sur le depot en ligne
 
 ## git status
-Permet de verifier le stauts du repertoire
-Permet de lister les modifications a traiter
+- Permet de verifier le stauts du repertoire
+- Permet de lister les modifications a traiter
 
 ## git log
 Permet de lister les modifications en local
+
+## git branch
+Permet de creer une branche
+
+## git checkout
+- Permet de passer d'une branche a une autre
+- Avec l'option -b, checkout va creer la branche si elle n'existe pas
