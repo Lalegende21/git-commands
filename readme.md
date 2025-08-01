@@ -16,7 +16,7 @@ Liste des commandes git
 Permet de pousser les modifications sur le depot en ligne
 
 ## git status
-- Permet de verifier le stauts du repertoire
+- Permet de verifier le status du repertoire
 - Permet de lister les modifications a traiter
 
 ## git log
