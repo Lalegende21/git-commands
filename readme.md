@@ -24,6 +24,7 @@ Permet de pousser les modifications sur le depot en ligne
 
 ## git branch
 - Permet de creer une branche
+- Avec l'option -d elle permet de supprimer une branche
 
 ## git checkout
 - Permet de passer d'une branche a une autre
